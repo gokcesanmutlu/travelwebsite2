@@ -20,9 +20,8 @@
 </body>
 </html>
 
- Screenshot
-
-![projectgif](holidayproject.gif)
+ Screenshoot
+ ![projectgif](holidayproject.gif)
 
 
 
