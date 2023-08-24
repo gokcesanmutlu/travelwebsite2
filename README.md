@@ -21,7 +21,7 @@
 </html>
 
  Screenshot
-![projectgif](holiday.gif)
+![projectgif](holidayproject.gif)
 
 
 
