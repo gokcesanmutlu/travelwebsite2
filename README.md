@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <p>It is a reliable website where you can make your travel plans.</p>
+  <p>It is a responsive website design that you can make your travel plans.</p>
 <h2 id="built-with">Built With</h2>
   <ul>
     <li>HTML</li>
@@ -17,13 +17,11 @@
   <p> Additional library : Boostrap</p>
   <p>You can reach to Website, when you are click <a href="https://travelerwebsite.netlify.app/">HERE</a>.</p>
 
-<p>*This site has a responsive structure.</p>
 </body>
 </html>
 
-<!-- Screenshot
-
-![reastaurantprojectgif](.gif) -->
+ Screenshot
+![projectgif](holiday.gif)
 
 
 
